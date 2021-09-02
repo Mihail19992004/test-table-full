@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2ef1529-011e-4262-bf72-2f4543ce0adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-table-backend/controller/table.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-table-backend/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-table-backend/route/table.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-backend/tableModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-backend/tableRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-front/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/src/components/addRow.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-front/src/components/addRow.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/src/components/tableBlock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-front/src/components/tableBlock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-table-front/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/test-table-front/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xZsilINuaeJqxI0dqd5HX9rFui" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-table-backend" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\table-test\test-table-backend" />
+      <recent name="C:\Users\Admin\Desktop\table-test" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ef1529-011e-4262-bf72-2f4543ce0adc" name="Default Changelist" comment="" />
+      <created>1630574073374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630574073374</updated>
+      <workItem from="1630574076339" duration="927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
